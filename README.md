@@ -57,18 +57,18 @@ EDA was performed to identify historical trends and medal-winning patterns.
 
 ## 📌 Yearly Enrollment Trend 📊
 ![Data Distribution](https://github.com/Inibillion/Recbini-Academy-/blob/main/yearly%20enroll%20trend.png)  
-This dashboard provides a **comprehensive view of student enrollment trends** over multiple academic years. It highlights **year-over-year growth, declines, and patterns** in student admissions, helping stakeholders **forecast future enrollment, assess institutional growth, and make data-driven decisions** for capacity planning and resource allocation. 🚀  
+This dashboard provides a **comprehensive view of student enrollment trends** over multiple academic years. It highlights **year-over-year growth, declines, and patterns** in student admissions, helping stakeholders **forecast future enrollment, assess institutional growth, and make data-driven decisions** for capacity planning and resource allocation. 🚀 
 
-![Data Distribution](https://github.com/Inibillion/Recbini-Academy-/blob/main/line%20RB.png)
 ## 📌 Student Performance Trends Over the Years 📊
+![Data Distribution](https://github.com/Inibillion/Recbini-Academy-/blob/main/line%20RB.png)
 This dashboard analyzes **academic performance trends over multiple years**, highlighting **improvements, declines, and key patterns** across subjects and student groups. It provides **data-driven insights** to track progress, identify areas for intervention, and enhance overall academic outcomes. 🚀 
 
-![Data Distribution](https://github.com/Inibillion/Recbini-Academy-/blob/main/Bar%20chat%20RB.png)
 ## 📌 Top Performing Students 🏆
+![Data Distribution](https://github.com/Inibillion/Recbini-Academy-/blob/main/Bar%20chat%20RB.png)
 This dashboard showcases the **highest-achieving students** based on their academic performance. It highlights **top scorers across subjects and years,** helping educators recognize excellence and track consistent high performers. 🚀
 
-![Data Distribution](https://github.com/Inibillion/Recbini-Academy-/blob/main/Pie%20chat%20RB.png)
 ## 📌 Gender Distribution 👥 
+![Data Distribution](https://github.com/Inibillion/Recbini-Academy-/blob/main/Pie%20chat%20RB.png)
 This dashboard provides insights into the **male-to-female ratio** across different grades and enrollment years. It helps in understanding gender diversity trends and supporting inclusive education strategies. 📊 
 
 ---
