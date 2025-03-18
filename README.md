@@ -62,9 +62,9 @@ EDA was performed to identify historical trends and medal-winning patterns.
 ### **🔍 Data Cleaning & Preprocessing**  
 
 📊 **SQL Queries Screenshot:**  
-![SQL Queries](https://github.com/Inibillion/Olympic-History/blob/main/Olympic%20SQL%20Project%20%20P1.png)  
-![SQL Queries](https://github.com/Inibillion/Olympic-History/blob/main/Olympic%20SQL%20Project%20P2.png) 
-![SQL Queries](https://github.com/Inibillion/Recbini-Academy-/blob/main/RB%20SQL.png) 
+![SQL Queries](https://github.com/Inibillion/Recbini-Academy-/blob/main/RB%20SQL.png)  
+![SQL Queries](https://github.com/Inibillion/Recbini-Academy-/blob/main/RB%20SQL%201.png) 
+
 
 ---
 
