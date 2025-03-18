@@ -10,9 +10,10 @@ The goal is to analyze Olympic trends and provide **data-driven insights** into 
 ---
 
 ## 📂 Data Sources  
-- 🏅 **Olympic Athlete Dataset (1896 - 2021)**
-- 📊 **Medal Distribution Data (Gold, Silver, Bronze)**  
-- 🌍 **Host Country & Event Information**  
+- 📚 **Student Performance Data (Grades, Subjects, and Rankings)**
+- 🎓 **Enrollment & Attendance Records (2022-2025)**  
+- 💰 **Financial Transactions (Budget, Expenses, and Revenue)**
+- 👩‍🏫 **Teacher & Staff Information.** 
 
 ---
 
