@@ -53,10 +53,10 @@ EDA was performed to identify historical trends and medal-winning patterns.
 - **The top 5 countries account for 60% of all medals.**
 - **There is a direct correlation between GDP and Olympic success.**  
 
-📊 **Visualization Sample:** 
+📊 **Visualization Sample:**
 
-![Data Distribution](https://github.com/Inibillion/Recbini-Academy-/blob/main/yearly%20enroll%20trend.png) 
-## 📌 Yearly Enrollment Trend 📊 
+## 📌 Yearly Enrollment Trend 📊
+![Data Distribution](https://github.com/Inibillion/Recbini-Academy-/blob/main/yearly%20enroll%20trend.png)  
 This dashboard provides a **comprehensive view of student enrollment trends** over multiple academic years. It highlights **year-over-year growth, declines, and patterns** in student admissions, helping stakeholders **forecast future enrollment, assess institutional growth, and make data-driven decisions** for capacity planning and resource allocation. 🚀  
 
 ![Data Distribution](https://github.com/Inibillion/Recbini-Academy-/blob/main/line%20RB.png)
