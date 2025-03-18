@@ -45,13 +45,12 @@ The goal is to analyze Olympic trends and provide **data-driven insights** into 
 
 ---
 
-## 📈 Exploratory Data Analysis (EDA)  
-EDA was performed to identify historical trends and medal-winning patterns.  
+## 📈 Exploratory Data Analysis (EDA)    
 ### 🔹 **Key Findings from EDA:**  
-- **Olympic participation has steadily increased since 1900.**
-- **Team sports have grown in popularity over individual events.**
-- **The top 5 countries account for 60% of all medals.**
-- **There is a direct correlation between GDP and Olympic success.**  
+- **Yearly student performance trends indicate a steady improvement.**
+- **A significant correlation exists between attendance and academic success.**
+- **Financial trends suggest increased revenue from tuition fees.**
+- **Teachers with higher engagement contribute to better student performance.**  
 
 📊 **Visualization Sample:**
 
