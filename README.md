@@ -1,11 +1,10 @@
-# 🏅 Olympic History Data Analysis | Power BI & SQL  
+# 📊 Recbini Academy Data Analysis | Power BI & SQL  
 
 ## 📌 Project Overview 
-This project explores **historical Olympic data** to uncover key trends in medal distribution, **athlete performance, and country dominance** using **SQL and Power BI**.
-The goal is to analyze Olympic trends and provide **data-driven insights** into athlete success and national performance.  
+This project analyzes **Recbini Academy's** data, covering **student performance, attendance, finances, and teacher records** to gain insights into academic trends, financial health, and student success. The goal is to use **SQL and Power BI** to create interactive dashboards for better decision-making. 
 
-### 📸 **Olympic Events History**  
-![Power BI Dashboard](https://github.com/Inibillion/Olympic-History/blob/main/Olympic%20canva.png)
+### 📸 **Recbini Academy pictures**  
+![Power BI Dashboard](https://github.com/Inibillion/Recbini-Academy-/blob/main/Recbini%20Class.png)
 
 ---
 
