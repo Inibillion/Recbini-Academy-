@@ -58,7 +58,7 @@ EDA was performed to identify historical trends and medal-winning patterns.
 ![Data Distribution](https://github.com/Inibillion/Recbini-Academy-/blob/main/yearly%20enroll%20trend.png) 
 ## 📌 Yearly Enrollment Trend 📊 
 This dashboard provides a **comprehensive view of student enrollment trends** over multiple academic years. It highlights **year-over-year growth, declines, and patterns** in student admissions, helping stakeholders **forecast future enrollment, assess institutional growth, and make data-driven decisions** for capacity planning and resource allocation. 🚀  
-![Data Distribution](https://github.com/Inibillion/Olympic-History/blob/main/Olympic%20pix%202.png)
+![Data Distribution](https://github.com/Inibillion/Recbini-Academy-/blob/main/line%20RB.png)
 ## 📌 Project Overview 
 This project explores **historical Olympic data** to uncover key trends in medal distribution, **athlete performance, and country dominance** using **SQL and Power BI**.
 The goal is to analyze Olympic trends and provide **data-driven insights** into athlete success and national performance.  
