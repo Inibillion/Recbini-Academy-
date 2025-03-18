@@ -65,12 +65,11 @@ This dashboard analyzes **academic performance trends over multiple years**, hig
 
 ![Data Distribution](https://github.com/Inibillion/Recbini-Academy-/blob/main/Bar%20chat%20RB.png)
 ## 📌 Top Performing Students 🏆
-This dashboard showcases the highest-achieving students based on their academic performance. It highlights top scorers across subjects and years, helping educators recognize excellence and track consistent high performers. 🚀
+This dashboard showcases the **highest-achieving students** based on their academic performance. It highlights **top scorers across subjects and years,** helping educators recognize excellence and track consistent high performers. 🚀
 
-![Data Distribution](https://github.com/Inibillion/Olympic-History/blob/main/Olympic%20pix%202.png)
-## 📌 Project Overview 
-This project explores **historical Olympic data** to uncover key trends in medal distribution, **athlete performance, and country dominance** using **SQL and Power BI**.
-The goal is to analyze Olympic trends and provide **data-driven insights** into athlete success and national performance.  
+![Data Distribution](https://github.com/Inibillion/Recbini-Academy-/blob/main/Pie%20chat%20RB.png)
+## 📌 Gender Distribution 👥 
+This dashboard provides insights into the **male-to-female ratio** across different grades and enrollment years. It helps in understanding gender diversity trends and supporting inclusive education strategies. 📊 
 
 ---
 
