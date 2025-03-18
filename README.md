@@ -17,15 +17,15 @@ The goal is to analyze Olympic trends and provide **data-driven insights** into 
 ---
 
 ## 🔍 Key Insights 
-✅ **The USA has won the highest number of Olympic medals.**
+✅ **Student enrollment has grown consistently from 2022 to 2025.**
 
-✅ **Athlete participation has tripled since the early 1900s.** 
+✅ **Mathematics and English have the highest failure rates.** 
 
-✅ **Michael Phelps holds the record for the most gold medals.**
+✅ **Budget utilization trends indicate efficient financial management.**
 
-✅ **Athletics and Swimming account for the highest number of medals awarded.** 
+✅ **Attendance rates drop significantly during holiday months.** 
 
-✅ **Host countries experience a 20% increase in medal wins.**   
+✅ **Top-performing students maintain high attendance records.**   
 
 ---
 
